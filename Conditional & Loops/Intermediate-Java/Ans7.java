@@ -1,0 +1,7 @@
+public class Ans7 {
+    public static void main(String[] args) {
+        int base = 3, exponent = 4;
+        double result = Math.pow(base, exponent);
+        System.out.println(base + " raised to power " + exponent + " = " + result);
+    }
+}
